@@ -1,1 +1,2 @@
 # Legend
+console.WriteLine("Love");
